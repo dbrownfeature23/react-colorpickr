@@ -2,6 +2,7 @@ A colorpicker for React
 ---
 
 [![npm version](http://img.shields.io/npm/v/@mapbox/react-colorpickr.svg)](https://npmjs.org/package/@mapbox/react-colorpickr) [![Build Status](https://travis-ci.com/mapbox/react-colorpickr.svg?token=YkkMPyN1R9p9yTUwpzb5&branch=master)](https://travis-ci.com/mapbox/react-colorpickr)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdbrownfeature23%2Freact-colorpickr.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdbrownfeature23%2Freact-colorpickr?ref=badge_shield)
 
 __[Demo](https://labs.mapbox.com/react-colorpickr/)__
 
@@ -97,3 +98,7 @@ render() {
 Then open http://localhost:9966/example/ in browser.
 
 Inspired by https://github.com/wangzuo/react-input-color
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdbrownfeature23%2Freact-colorpickr.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdbrownfeature23%2Freact-colorpickr?ref=badge_large)
